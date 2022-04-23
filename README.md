@@ -9,8 +9,8 @@
 <div>
   <a href="https://github.com/RodrigoBonif">
     <br>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBonif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBonif&layout=compact&langs_count-16&theme=tokyonight"/>  
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBonif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBonif&layout=compact&langs_count-16&theme=tokyonight"/>  
 </div>
 <div style-"display: inline_block">
 <hr>
