@@ -1,6 +1,6 @@
 ### Seja bem-vindo, Sou Rodrigo Bonifácio Conceição 🎉
 
-📚 - Estou atualmente no terceiro ano do ensino médio de Informática no Instituto Federal Catarinense
+📚 - Formado no curso técnico de informática no Instituto Federal Catarinense
 
 🧩 - Gosto de Desenvolver Front-End
 
