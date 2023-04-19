@@ -15,7 +15,7 @@
 <div style-"display: inline_block">
 <hr>
 <h2>✏️ - linguagens</h2>
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,react)
+
 </div>
 <hr>
 <div>
